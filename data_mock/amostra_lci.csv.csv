@@ -1,0 +1,7 @@
+Origem;Destino;Valor
+Sol;Planta;1000.0
+Chuva;Planta;500.0
+Solo;Planta;200.0
+Planta;Herbivoro;300.0
+agua;Herbivoro;150.0
+Herbivoro;Carnivoro;100.0
